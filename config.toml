@@ -1,0 +1,7 @@
+baseURL = 'http://business-central-tech-bites.dev/'
+languageCode = 'en-us'
+title = 'Business Central Tech Bites'
+theme = 'Ananke'
+menu = 'main'
+[params]
+  favicon = '/Logo/business-central-logo.png' 
